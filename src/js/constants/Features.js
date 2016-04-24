@@ -1,0 +1,1 @@
+"use strict";var Utils=require("../utils/utils"),Features=void 0;Features=["comments","replays","Pubnub","Chatman"],window.addFeature=function(e){Features.indexOf(e)<0&&Features.push(e)},window.removeFeature=function(e){return Utils.removeFromArray(e,Features)},module.exports=Features;

@@ -1,0 +1,104 @@
+{
+  "locales": [
+    "en"
+  ],
+  "messages": {
+    "app": {
+      "MOBILE": "To watch video or chat, you need the Periscope app.",
+      "MOBILE_UNSUPPORTED": "To watch video, please use a desktop browser.",
+      "DISCLAIMER": "Commenting enabled in app",
+      "ENABLE_FLASH": "or enable Flash to see activity",
+      "GET_SHORT": "Get",
+      "GET": "Get the app",
+      "OPEN": "Open in app",
+      "TAGLINE": "Itâ€™s worth it. We promise.",
+      "EXTERNAL": "Watch on Periscope",
+      "IOS": "iOS",
+      "ANDROID": "Android"
+    },
+    "broadcast": {
+      "controls": {
+        "NEXT_BROADCAST": "Next Broadcast"
+      },
+      "cta": {
+        "UNSUPPORTED_BROWSER": "For video, please use Chrome, Safari, or Firefox.",
+        "UNSUPPORTED_IE": "Your browser is not supported, please use Google Chrome to watch broadcasts.",
+        "UNSUPPORTED_ENV": "For video, please install Flash or try Safari.",
+        "BROWSER_RECOMMENDATION": "Google Chrome is recommended for live video",
+        "EMPTY_PROMPT": "Whatâ€™s happening now?",
+        "EMPTY_CTA": "Watch a LIVE broadcast"
+      },
+      "defaults": {
+        "TITLE": "Untitled"
+      },
+      "state_label": {
+        "CONNECTED": "Connected",
+        "CONNECTING": "Connectingâ€¦",
+        "LOADING": "Loadingâ€¦",
+        "ENDED_AGO": "Ended {ended_ago}",
+        "ERROR": "Something went wrong, and itâ€™s not your fault.",
+        "EXPIRED": "This broadcast has expired.",
+        "UNAVAILABLE": "This broadcast is no longer available.",
+        "LIVE": "LIVE",
+        "ENDED": "ENDED",
+        "NOT_FOUND": "Broadcast not foundâ€¦",
+        "NO_REPLAY": "Replay Unavailable"
+      },
+      "meta": {
+        "FEATURED": "Featured",
+        "FEATURED_LABEL": "Featured by the Periscope team."
+      }
+    },
+    "system": {
+      "USER_MUTED": "You wonâ€™t see any more messages from {username}"
+    },
+    "user": {
+      "FOLLOWERS": "Followers",
+      "FOLLOWING": "Following",
+      "NO_BROADCAST_HISTORY": "No broadcasts in the last 24 hours.",
+      "PROFILE_LINK": "View Profile",
+      "PERISCOPE_LINK": "View Periscope Profile",
+      "TWITTER_LINK": "View Twitter Profile",
+      "VERIFIED_ACCOUNT": "Verified on Twitter",
+      "MUTE": "Hide comments from this person"
+    },
+    "viewers": {
+      "WATCHING_LABEL": "{viewerCount, plural,\n  =0 {No one is watching}\n  one {# person is watching}\n  other {# people are watching}\n}",
+      "COUNT_LABEL": "{viewerCount, plural,\n  =0 {No Viewers}\n  one {# Viewer}\n  other {# Viewers}\n}"
+    },
+    "share": {
+      "tweet": {
+        "LIVE_BROADCAST": "LIVE on #Periscope",
+        "ENDED_BROADCAST": "Watch on #Periscope"
+      },
+      "button": {
+        "LINK_TITLE": "Share on Twitter"
+      }
+    },
+    "text_link": {
+      "prompt": {
+        "TITLE": "Get the Periscope App",
+        "MESSAGE": "Send hearts and comment on live video!",
+        "CTA": "Text the app download link to your phone:",
+        "UNFOCUSED_PLACEHOLDER": "Phone Number",
+        "FOCUSED_PLACEHOLDER": "ex. (415) 555-0123",
+        "FORM_SUBMIT": "Text me the link",
+        "SUBMIT_LABEL": "Submit",
+        "DISCLAIMER": "U.S. only. Data & SMS rates may apply"
+      },
+      "success": {
+        "TITLE": "Success!",
+        "MESSAGE": "We texted the app download link to {formattedNumber}",
+        "CTA": "Didn't get it?",
+        "TRY_AGAIN": "Try again?",
+        "DONE": "Done"
+      },
+      "error": {
+        "TITLE": "Oops!",
+        "MESSAGE": "Something went wrong.",
+        "TRY_AGAIN": "Try again.",
+        "DONE": "Done"
+      }
+    }
+  }
+}
